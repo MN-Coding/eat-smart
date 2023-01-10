@@ -1,0 +1,11 @@
+.recipe {
+    background: lightcoral;
+    text-align: center;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+}
+
+.calories {
+    font-weight: 900;
+}
