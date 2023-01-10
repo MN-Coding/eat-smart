@@ -49,3 +49,10 @@
 p, li, h1 {
   color: white;
 }
+
+@media screen and (max-width: 900px) {
+  .recipes {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
